@@ -21,13 +21,12 @@ status-website:
   name: Will Wilson Status
   introTitle: "Will Wilson (AS214818) Service Status"
   introMessage: Service status is updated approximately every 5-30 minutes. Charts are updated less frequently. Subscribe to updates by watching all repo activity on GitHub - https://github.com/thewillwilson/upptime
-  theme: light
   navbar:
-    - title: Email NOC
+    - title: NOC
       href: mailto:noc@willwilson.uk
-    - title: Email Abuse
+    - title: Abuse
       href: mailto:abuse@willwilson.uk
-    - title: Email Peering
+    - title: Peering
       href: mailto:peering@willwilson.uk
 
 # Upptime also supports notifications, assigning issues, and more
