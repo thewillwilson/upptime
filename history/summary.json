@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 426,
-    "timeWeek": 426,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "time": 488,
+    "timeDay": 488,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "rtr2-lon.n.willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rtr-2-lon-1-and-1-vps",
-    "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
+    "time": 82,
+    "timeDay": 82,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-07-01": 6
+      "2024-07-01": 13
     }
   }
 ]
