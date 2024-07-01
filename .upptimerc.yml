@@ -32,3 +32,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: <a href="https://willwilson.uk>willwilson.uk</a>
