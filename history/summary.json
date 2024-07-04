@@ -4,18 +4,20 @@
     "url": "https://willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 654,
-    "timeWeek": 548,
-    "timeMonth": 548,
-    "timeYear": 548,
-    "dailyMinutesDown": {}
+    "time": 574,
+    "timeDay": 880,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
+    "dailyMinutesDown": {
+      "2024-07-04": 0
+    }
   },
   {
     "name": "Home Assistant",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 399,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 466,
+    "timeDay": 420,
+    "timeWeek": 466,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 78,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 98,
+    "timeDay": 82,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
