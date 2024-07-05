@@ -4,19 +4,20 @@
     "url": "https://willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 880,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 553,
+    "timeDay": 585,
+    "timeWeek": 553,
+    "timeMonth": 553,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-07-04": 0
+      "2024-07-05": 39,
+      "2024-07-04": 7
     }
   },
   {
