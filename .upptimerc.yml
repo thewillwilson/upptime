@@ -7,6 +7,10 @@ sites:
     url: https://willwilson.uk
   - name: Home Assistant
     url: https://ha.willwilson.uk
+  - name: RTR1-LON (iFog VPS)
+    url: rtr1-lon.n.willwilson.uk
+    check: "tcp-ping"
+    port: 8291
   - name: RTR2-LON (1&1 VPS)
     url: rtr2-lon.n.willwilson.uk
     check: "tcp-ping"
