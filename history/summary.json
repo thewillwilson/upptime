@@ -4,9 +4,9 @@
     "url": "https://willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2024-07-15": 0,
       "2024-07-05": 39,
       "2024-07-04": 7
     }
