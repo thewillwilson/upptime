@@ -25,9 +25,9 @@
     "url": "https://ha.willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/ha.willwilson.uk.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 570,
     "timeMonth": 487,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-20": 0
+    }
   },
   {
     "name": "RTR1-LON (iFog VPS)",
@@ -62,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rtr-2-lon-1-and-1-vps",
     "status": "down",
-    "uptime": "76.95%",
+    "uptime": "76.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.12%",
-    "uptimeMonth": "76.95%",
-    "uptimeYear": "76.95%",
+    "uptimeWeek": "37.44%",
+    "uptimeMonth": "76.16%",
+    "uptimeYear": "76.16%",
     "time": 105,
     "timeDay": 0,
     "timeWeek": 130,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-07-20": 57,
+      "2024-07-20": 327,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
