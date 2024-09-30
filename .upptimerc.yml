@@ -13,8 +13,6 @@ sites:
     port: 8291
   - name: RTR2-LON (1&1 VPS)
     url: rtr2-lon.n.willwilson.uk
-    check: "tcp-ping"
-    port: 8291
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
