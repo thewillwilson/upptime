@@ -8,11 +8,11 @@ sites:
   - name: Home Assistant
     url: https://ha.willwilson.uk
   - name: RTR1-LON (iFog VPS)
-    url: rtr1-lon.as214818.willwilson.uk
+    url: lon01.pop.as214818.willwilson.uk
     check: "tcp-ping"
-    port: 8291
+    port: 22
   - name: RTR2-LON (1&1 VPS)
-    url: rtr2-lon.as214818.willwilson.uk
+    url: lon02.pop.as214818.willwilson.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
