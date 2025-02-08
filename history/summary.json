@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2025-02-08": 1391,
+      "2025-02-08": 1403,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -170,19 +170,19 @@
     "url": "lon01.pop.as214818.willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lon-01-pop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 0,
-    "timeWeek": 96,
-    "timeMonth": 107,
-    "timeYear": 110,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 111,
+    "timeDay": 160,
+    "timeWeek": 105,
+    "timeMonth": 109,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 12
     }
   },
   {
