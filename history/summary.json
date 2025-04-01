@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "41.89%",
+    "uptime": "41.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.89%",
+    "uptimeYear": "41.83%",
     "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2025-04-01": 80,
+      "2025-04-01": 626,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -244,9 +244,9 @@
     "url": "lon02.pop.as214818.willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lon-02-pop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -255,7 +255,9 @@
     "timeWeek": 120,
     "timeMonth": 119,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-01": 0
+    }
   },
   {
     "name": "COV01 POP",
