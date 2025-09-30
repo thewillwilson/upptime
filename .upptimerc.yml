@@ -20,6 +20,11 @@ sites:
     check: "tcp-ping"
     port: 22
 
+  - name: AMS01 POP
+    url: ams01.pop.as214818.willwilson.uk
+    check: "tcp-ping"
+    port: 22
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
