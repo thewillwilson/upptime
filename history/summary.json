@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "25.12%",
+    "uptime": "25.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.55%",
+    "uptimeYear": "6.54%",
     "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2025-09-30": 683,
+      "2025-09-30": 738,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -365,11 +365,11 @@
     "url": "https://ha.willwilson.uk",
     "icon": "https://icons.duckduckgo.com/ip3/ha.willwilson.uk.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.10%",
     "time": 604,
     "timeDay": 726,
@@ -377,7 +377,7 @@
     "timeMonth": 701,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-09-30": 31,
+      "2025-09-30": 32,
       "2025-09-06": 19,
       "2025-08-27": 26,
       "2025-07-21": 153,
@@ -440,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-09-30": 683,
+      "2025-09-30": 738,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -663,7 +663,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 96
+      "2025-09-30": 152
     }
   }
 ]
