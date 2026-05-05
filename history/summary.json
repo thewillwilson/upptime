@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "17.05%",
+    "uptime": "17.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 154,
+      "2026-05-05": 148,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -379,8 +380,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -389,14 +389,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lon-01-pop",
     "status": "up",
-    "uptime": "69.58%",
+    "uptime": "69.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.39%",
+    "uptimeMonth": "70.67%",
     "uptimeYear": "59.64%",
     "time": 116,
-    "timeDay": 146,
-    "timeWeek": 107,
+    "timeDay": 111,
+    "timeWeek": 111,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -557,14 +557,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lon-02-pop",
     "status": "up",
-    "uptime": "30.29%",
+    "uptime": "30.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.47%",
+    "uptimeYear": "16.74%",
     "time": 117,
-    "timeDay": 148,
-    "timeWeek": 112,
+    "timeDay": 115,
+    "timeWeek": 115,
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -870,8 +870,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -880,14 +879,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cov-01-pop",
     "status": "up",
-    "uptime": "90.94%",
+    "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.00%",
     "time": 109,
-    "timeDay": 146,
-    "timeWeek": 105,
+    "timeDay": 117,
+    "timeWeek": 110,
     "timeMonth": 112,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -955,7 +954,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 154,
+      "2026-05-05": 149,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
