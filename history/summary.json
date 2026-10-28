@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/willwilson.uk.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "13.51%",
+    "uptime": "13.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 212,
+      "2026-10-28": 228,
+      "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -379,8 +380,7 @@
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
-      "2025-10-29": 1440,
-      "2025-10-28": 1440
+      "2025-10-29": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lon-01-pop",
     "status": "down",
-    "uptime": "53.09%",
+    "uptime": "53.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.14%",
-    "time": 117,
+    "uptimeYear": "14.87%",
+    "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 115,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2026-04-13": 1413,
       "2026-04-12": 1440,
@@ -549,7 +549,8 @@
       "2025-11-18": 1440,
       "2025-11-17": 402,
       "2026-04-14": 64,
-      "2026-10-27": 213,
+      "2026-10-28": 228,
+      "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -721,16 +722,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lon-02-pop",
     "status": "up",
-    "uptime": "48.88%",
+    "uptime": "48.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.70%",
-    "time": 117,
-    "timeDay": 98,
-    "timeWeek": 108,
+    "uptimeYear": "64.98%",
+    "time": 118,
+    "timeDay": 153,
+    "timeWeek": 116,
     "timeMonth": 113,
-    "timeYear": 117,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2026-03-04": 1432,
       "2026-03-03": 1440,
@@ -858,8 +859,7 @@
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
-      "2025-10-29": 1440,
-      "2025-10-28": 1440
+      "2025-10-29": 1440
     }
   },
   {
@@ -868,16 +868,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cov-01-pop",
     "status": "up",
-    "uptime": "89.74%",
+    "uptime": "89.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "30.06%",
+    "uptimeMonth": "33.39%",
     "uptimeYear": "81.45%",
     "time": 110,
-    "timeDay": 99,
-    "timeWeek": 104,
-    "timeMonth": 101,
-    "timeYear": 110,
+    "timeDay": 142,
+    "timeWeek": 113,
+    "timeMonth": 105,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2026-01-29": 363,
       "2026-01-28": 1440,
@@ -970,7 +970,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 213,
+      "2026-10-28": 228,
+      "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -1333,8 +1334,7 @@
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
-      "2025-10-29": 1440,
-      "2025-10-28": 1440
+      "2025-10-29": 1440
     }
   }
 ]
